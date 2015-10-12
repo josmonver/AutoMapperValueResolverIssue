@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMapperValueResolverIssue", "AutoMapperValueResolverIssue\AutoMapperValueResolverIssue.csproj", "{DEA7BAD3-343B-4387-AFAA-6337DBEC1FD6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{320DD8C3-55B9-43C7-B43F-8DCD83FAB487}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC4CA28A-E3A4-4948-B86C-5AA9BC61FC1C}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEA7BAD3-343B-4387-AFAA-6337DBEC1FD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEA7BAD3-343B-4387-AFAA-6337DBEC1FD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEA7BAD3-343B-4387-AFAA-6337DBEC1FD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEA7BAD3-343B-4387-AFAA-6337DBEC1FD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
